@@ -1,6 +1,6 @@
 # logstash-to-datadog-grok-converter
 
-Simple converter that maps any inconsistencies (ie. upper case vs. lower case, differing filter names) between the Logstash grok syntax to the Datadog grok syntax.
+Simple find-and-replace converter that maps any inconsistencies (ie. upper case vs. lower case, differing filter names) between the Logstash grok syntax to the Datadog grok syntax.
 
 An example of this is: Logstash uses filter names such as "INT" vs. Datadog's "integer" 
 
