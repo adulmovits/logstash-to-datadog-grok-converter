@@ -1,0 +1,6 @@
+INT	integer
+DATA	data
+IP	ip
+WORD	word
+BASE16NUM	number
+MAC	mac
